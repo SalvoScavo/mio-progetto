@@ -7,6 +7,8 @@ int main()
     
     
     int x;
+    x+=2;
+    cout<<"Ciao "<<x;
     return 0;
 
 
