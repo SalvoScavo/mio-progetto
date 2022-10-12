@@ -1,10 +1,9 @@
 #include <iostream>
 using namespace std;
-<<<<<<< HEAD
 int main()
 {
 
     cout<<"PIPPO";
+    
+    return 0;
 }
-=======
->>>>>>> parent of aa8a1d7... pippo
